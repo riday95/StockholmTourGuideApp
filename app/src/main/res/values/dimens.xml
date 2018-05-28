@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- locationTitle -->
+    <dimen name="LTTextsize">24sp</dimen>
+    <dimen name="LTlayoutMargin">8dp</dimen>
+
+    <!-- listItemTextView -->
+    <dimen name="LITtextsize">15sp</dimen>
+    <dimen name="LITLayoutMargin">8dp</dimen>
+
+    <!-- activityPlaceTextView -->
+    <dimen name="APTpadding">12dp</dimen>
+    <dimen name="APTtextsize">20sp</dimen>
+
+    <!-- activity_place -->
+    <dimen name="collapsingToolbarHeight">350dp</dimen>
+    <dimen name="cardViewlayoutMargin">16dp</dimen>
+    <dimen name="cardViewElevtion">5dp</dimen>
+
+    <!-- activity_main -->
+    <dimen name="tabLayoutMaxweight">0dp</dimen>
+
+    <!-- list_item -->
+    <dimen name="cardViewCornerRadius">24dp</dimen>
+</resources>

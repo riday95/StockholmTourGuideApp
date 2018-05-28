@@ -1,0 +1,214 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <!-- Main category -->
+
+    <string name="catagory_sights">Sights</string>
+    <string name="catagory_food">Food</string>
+    <string name="catagory_shops">Shops</string>
+    <string name="catagory_transport">Transport</string>
+    <string name="getLocation">Get Location</string>
+
+    <!-- Sights category -->
+    <string name="sh_dramaten_title">The Royal Dramatic Theatre</string>
+    <string name="sh_dramaten_des">Sweden\'s national theatre is a beautiful Jugend building located on the waterfront at Nybroviken bay. The guided tours of Sweden’s national theatre starts at the main entrance and moves through the elegant marble foyer and the main stage. A fascinating look behind the scenes, including a visit to the theatre’s extensive wardrobes.</string>
+    <string name="sh_dramaten_add">Dramaten, Stockholm</string>
+    <string name="sh_dramaten_tel">+46 08 665 61 00</string>
+    <string name="sh_dramaten_web">http://www.dramaten.se/</string>
+
+    <string name="sh_gamlastan_title">Gamla stan</string>
+    <string name="sh_gamlastan_des">All of Gamla Stan and the adjacent island of Riddarholmen are like a living pedestrian-friendly museum full of sights, attractions, restaurants, cafés, bars, and places to shop. Gamla Stan is also popular with aficionados of handicrafts, curious, and souvenirs. The narrow winding cobblestone streets, with their buildings in so many different shades of gold, give Gamla Stan its unique character. Even now cellar vaults and frescoes from the Middle Ages can be found behind the visible facades, and on snowy winter days, the district feels like something from a storybook. </string>
+    <string name="sh_gamlastan_add">Gamla Stan, Stockholm</string>
+    <string name="sh_gamlastan_tel">None</string>
+    <string name="sh_gamlastan_web">None</string>
+
+    <string name="sh_globen_title">The Ericsson Globe</string>
+    <string name="sh_globen_des">The Ericsson Globe is since it’s inauguration in 1989, one of Stockholm’s most iconic buildings. With a volume of 605 000 cubic meters (approximately 2 136 540 cubic feet), this is the world’s largest spherical building. The Ericsson Globe (or “Globen” in short) serves as Sweden’s national hockey arena but also hosts a variety of other events and concerts and through the years some of the world’s biggest artists. SkyView is the world-class attraction that takes you to the top of the world’s largest spherical building, the Ericsson Globe, a Stockholm landmark. From the apex 130 meters (425 feet) above sea level, you get a fantastic view encompassing all of Stockholm. The two SkyView gondolas depart every 10 minutes, and the entire visit takes about 30 minutes. Restaurant, café, and souvenir shop are adjacent to SkyView.</string>
+    <string name="sh_globen_add">Globen, Globentorget 2, 121 77 Stockholm</string>
+    <string name="sh_globen_tel">+46 077 181 10 00</string>
+    <string name="sh_globen_web">https://www.stockholmlive.com/skyview/om-skyview</string>
+
+    <string name="sh_gronalund_title">Gröna Lund\'s Amusement Park</string>
+    <string name="sh_gronalund_des">Experience the joyful and magical world of Gröna Lund, Stockholm´s amusement park. A day spent at Gröna Lund is a memorable one, whether you dine in one of the restaurants, enjoy a pentathlon, a live concert or one of the 30 exciting rides. Gröna Lund is open from late spring (April/March) to September.</string>
+    <string name="sh_gronalund_add">Lilla Allmänna Gränd 9, 115 21 Stockholm</string>
+    <string name="sh_gronalund_tel">+46 010 708 91 00</string>
+    <string name="sh_gronalund_web">https://www.gronalund.com/</string>
+
+    <string name="sh_kungligaslottet_title">The Royal Palace</string>
+    <string name="sh_kungligaslottet_des">Welcome to one of the largest palaces in Europe! The Royal Palace is the official residence of His Majesty the King of Sweden, with over 600 rooms. The Palace is open to the public and offers no less than five museums. The Palace was largely built during the eighteenth century in the Italian Baroque style, on the spot where the “Tre Kronor” castle burned down in 1697. Visit the reception rooms with splendid interiors from the eighteenth and nineteenth centuries, Rikssalen (the Hall of State) with Queen Kristina’s silver throne, and Ordenssalarna (Halls of the Orders of Chivalry). You can also see Gustav III’s Museum of Antiquities, the Tre Kronor Museum, and the Treasury. The Royal Palace also contains the Armory, with royal costumes and armor, as well as coronation carriages and magnificent coaches from the Royal Stable. Make sure not to miss the parade of soldiers and the daily changing of the guard.</string>
+    <string name="sh_kungligaslottet_add">107 70 Stockholm</string>
+    <string name="sh_kungligaslottet_tel">+46 08 402 61 30</string>
+    <string name="sh_kungligaslottet_web">https://www.kungligaslotten.se/vara-besoksmal/kungliga-slottet.html</string>
+
+    <string name="sh_rosendalsslott_title">Rosendal Palace</string>
+    <string name="sh_rosendalsslott_des">This royal residence on the island of Djurgården, built for King Karl XIV Johan, is an outstanding example of Swedish Empire style. Furniture, textiles, and fixtures create an impressive overall effect, designed and manufactured by Swedish artists and artisans. Rosendal Palace is open between June and August each summer.</string>
+    <string name="sh_rosendalsslott_add">Rosendalsvägen 49, 115 21 Stockholm</string>
+    <string name="sh_rosendalsslott_tel">+46 08 402 61 30</string>
+    <string name="sh_rosendalsslott_web">https://www.kungligaslotten.se/</string>
+
+    <string name="sh_skansen_title">Skansen Open-Air Museum</string>
+    <string name="sh_skansen_des">Skansen is beautifully located on Royal Djurgården and sports spectacular views over all of Stockholm.This is also a Sweden in miniature. 150 farms and dwellings from different parts of the country were disassembled and transported here. Swedish traditions such as Midsummer, Walpurgis Night and Lucia are celebrated at Skansen.</string>
+    <string name="sh_skansen_add">Djurgårdsslätten 49-51, 115 21 Stockholm</string>
+    <string name="sh_skansen_tel">+46 08 442 80 00</string>
+    <string name="sh_skansen_web">http://www.skansen.se/</string>
+
+    <string name="sh_skinnarviksberget_title">Skinnarviksberget</string>
+    <string name="sh_skinnarviksberget_des">The highest natural point in central Stockholm is a favorite place among the locals for picnics and parties under the open sky. The views are stunning – across Kungsholmen, Gamla Stan (Old Town), the Stockholm Town Hall, and other points of interest. The park beneath the hill has a small playground and an open-air café where you can enjoy a light lunch or an ice cream in one of the hammocks.</string>
+    <string name="sh_skinnarviksberget_add">Skinnarviksberget, 118 23 Södermalm</string>
+    <string name="sh_skinnarviksberget_tel">None</string>
+    <string name="sh_skinnarviksberget_web">None</string>
+
+    <string name="sh_stadshuset_title">The City Hall</string>
+    <string name="sh_stadshuset_des">Stockholm City Hall, with its spire featuring the golden Three Crowns, is one of the most famous silhouettes in Stockholm. It is one of the country’s leading examples of national romanticism in architecture. The 106-meter tall tower has the three crowns, which is the Swedish national coat of arms, at its apex. The great Nobel banquet is also held at City Hall. After dinner in Blå Hallen, the Blue Hall, Nobel Prize laureates, royalty and guests dance in Gyllene Salen, the Golden Hall, with its 18 million gold mosaic tiles.</string>
+    <string name="sh_stadshuset_add">112 21 Stockholm</string>
+    <string name="sh_stadshuset_tel">None</string>
+    <string name="sh_stadshuset_web">None</string>
+
+    <string name="sh_vasamuseet_title">The Vasa Museum</string>
+    <string name="sh_vasamuseet_des">The 69 meter-long warship Vasa sank on its maiden voyage in the middle of Stockholm in 1628 and was salvaged 333 years later in 1961. For nearly half a century the ship has been slowly, deliberately and painstakingly restored to a state approaching its original glory. The three masts on the roof outside the specially built museum show the height of the ship\'s original masts. Today the Vasa Museum is the most visited museum in Scandinavia, with over one million visitors a year.</string>
+    <string name="sh_vasamuseet_add">Galärvarvsvägen 14, 115 21 Stockholm</string>
+    <string name="sh_vasamuseet_tel">+46 08 519 548 00</string>
+    <string name="sh_vasamuseet_web">https://www.vasamuseet.se/</string>
+
+    <!-- Shops category -->
+    <string name="sp_ahlenscity_title">Åhléns City</string>
+    <string name="sp_ahlenscity_des">Sweden’s largest department store, with competitive prices for clothing, design, media, beauty and much more. Large, diverse grocery store in the basement.</string>
+    <string name="sp_ahlenscity_add">Klarabergsgatan 50, 111 21 Stockholm</string>
+    <string name="sp_ahlenscity_tel">+46 08 676 60 00</string>
+    <string name="sp_ahlenscity_web">https://www.ahlens.se/cms/in-english</string>
+
+    <string name="sp_farmersmarket_title">Farmers Market</string>
+    <string name="sp_farmersmarket_des">A Farmers Market is held every Saturday from August through to October on the Katarina Bangata Street in the district of Södermalm. You will find organic and locally produced vegetables and fruit as well as jam and honey. There is another Farmers market held in the district of Östermalm in Tessinparken. Opening hours 10:00-15:00.</string>
+    <string name="sp_farmersmarket_add">Katarina Bangata, 116 39 Stockholm</string>
+    <string name="sp_farmersmarket_tel">+46 076 140 96 38</string>
+    <string name="sp_farmersmarket_web">https://www.yelp.se/biz/bondens-egen-marknad-stockholm-2</string>
+
+    <string name="sp_gallerian_title">Gallerian</string>
+    <string name="sp_gallerian_des">Downtown Stockholm’s first and largest galleria. Over 80 stores under one roof offer a broad selection of young and affordable fashion, cafés and restaurants.</string>
+    <string name="sp_gallerian_add">Hamngatan 37, 111 53 Stockholm</string>
+    <string name="sp_gallerian_tel">+46 08 791 24 93</string>
+    <string name="sp_gallerian_web">http://gallerian.se/</string>
+
+    <string name="sp_hm_title">H&amp;M</string>
+    <string name="sp_hm_des">The Swedish fashion chain H&amp;M is a huge global player. Much of its success is attributed to its wide selection of affordable fashion and ability to quickly pick up the latest trends. In central Stockholm, you’ll find the biggest selection in the stores at the intersection of Drottningatan and Mäster Samuelsgatan. Here you will also find H&amp;M\'s head office.</string>
+    <string name="sp_hm_add">Hamngatan 22, 111 47 Stockholm</string>
+    <string name="sp_hm_tel">+46 033 14 00 00</string>
+    <string name="sp_hm_web">http://www2.hm.com/sv_se/index.html</string>
+
+    <string name="sp_mallofscandinavia_title">Mall of Scandinavia</string>
+    <string name="sp_mallofscandinavia_des">Experience shopping, food, and entertainment in grand style at Stockholm\'s and Scandinavia\'s newest and largest shopping center – Mall of Scandinavia. Here you will find 224 stores and restaurants offering the very best from Swedish and international brands, gastronomic experiences from all over the world, as well as Sweden’s only commercial IMAX® cinema. This popular shopping center is only a 7-minute ride from Stockholm’s Central Station.</string>
+    <string name="sp_mallofscandinavia_add">Stjärntorget 2, 169 79 Solna</string>
+    <string name="sp_mallofscandinavia_tel">+46 08 400 080 00</string>
+    <string name="sp_mallofscandinavia_web">https://www.mallofscandinavia.se/</string>
+
+    <string name="sp_moodstockholm_title">MOOD Stockholm</string>
+    <string name="sp_moodstockholm_des">New and stylish mall with a focus on fashion and design. MOOD features niche boutiques like Rodebjer and Posh Living along with famous international brands recently established in Sweden, including Ralph Lauren and Club Monaco. When you are ready for a shopping break, you can enjoy a delicious meal in one of the popular restaurants (Boqueria, Vigårda, E.A.T.) or take in the modern art that adorns the walls. MOOD Stockholm is on Regeringsgatan on the block that connects the Hamngatan and Bibliotekstan shopping districts.</string>
+    <string name="sp_moodstockholm_add">Regeringsgatan 48, 111 44 Stockholm</string>
+    <string name="sp_moodstockholm_tel">+46 08 696 25 33</string>
+    <string name="sp_moodstockholm_web">http://moodstockholm.se/?lang=en</string>
+
+    <string name="sp_nk_title">NK - Nordiska Kompaniet</string>
+    <string name="sp_nk_des">Steeped in tradition, NK is Stockholm’s most luxurious department store, established 1915. Swedish and international fashion, cosmetics, jewelry, crystal, ceramics, design, fine foods and much more.</string>
+    <string name="sp_nk_add">Hamngatan 18-20, 111 47 Stockholm</string>
+    <string name="sp_nk_tel">+46 08 762 80 00</string>
+    <string name="sp_nk_web">https://www.nk.se/stockholm/</string>
+
+    <string name="sp_sciencefictionbokhandeln_title">Science Fiction Bokhandeln</string>
+    <string name="sp_sciencefictionbokhandeln_des">What do dragons, starships, vampires, and ninjas have in common? You’ll find them all at Science Fiction Bokhandeln. Since its inception, back in 1978, the bookstore has grown quite a bit and today it stocks more than just books. Board –and role-playing games, comic books, movies, manga, plush toys, trading card games and more. If you consider yourself a sci-fi, fantasy or horror aficionado, the store is definitely worth a visit.</string>
+    <string name="sp_sciencefictionbokhandeln_add">Västerlånggatan 48, 111 29 Stockholm</string>
+    <string name="sp_sciencefictionbokhandeln_tel">+46 08 21 50 52</string>
+    <string name="sp_sciencefictionbokhandeln_web">https://www.sfbok.se/</string>
+
+    <string name="sp_sturegallerian_title">Sturegallerian</string>
+    <string name="sp_sturegallerian_des">An exclusive mall in the middle of Stureplan square, with fashion boutiques, restaurants, cafés and the historic Sturebad spa, which opened in 1885.</string>
+    <string name="sp_sturegallerian_add">4 Stureplan, 114 35 Stockholm</string>
+    <string name="sp_sturegallerian_tel">+46 08 611 46 06</string>
+    <string name="sp_sturegallerian_web">https://www.sturegallerian.se/</string>
+
+    <string name="sp_soundpollution_title">Sound Pollution</string>
+    <string name="sp_soundpollution_des">Brutal sounds and distorted guitars; Sound Pollution is an oasis for fans of the heavier side of Rock. Heavy Metal, Thrash, Punk, Hardcore, Grind, Experimental Rock, Goth, Black Metal and more. If you’re not keen on heavy music; move along.</string>
+    <string name="sp_soundpollution_add">Stora Nygatan 18, 111 27 Stockholm</string>
+    <string name="sp_soundpollution_tel">+46 08 10 66 60</string>
+    <string name="sp_soundpollution_web">http://www.soundpollution.se/</string>
+
+    <!-- Transport category -->
+
+    <string name="tp_sl_title">Public transportation</string>
+    <string name="tp_sl_des">The underground is the easiest way to get around town. Tickets can be purchased at SL Centers, underground ticket booths, newsagent kiosks, via SMS or via the SL app. It\'s not possible to pay cash for tickets on board buses in Stockholm. Failure to show on demand a valid ticket during a control will result in a penalty fee of 1200 SEK. A single ticket is valid for 75 minutes and costs 44 SEK (31 SEK if you use a prepaid SL Card instead). It\'s also possible to buy 24 hours, 72 hours and 30-day tickets. A parent with a stroller gets to ride for free on any of Stockholm\'s busses</string>
+    <string name="tp_sl_add">Centralplan 15, 111 20 Stockholm</string>
+    <string name="tp_sl_tel">+46 08 600 10 00</string>
+    <string name="tp_sl_web">https://sl.se/en/</string>
+
+    <string name="tp_hoponhopoff_title">Hop On – Hop Off Bus</string>
+    <string name="tp_hoponhopoff_des">Hop aboard one of our Hop On – Hop Off sightseeing buses and explore Stockholm and its sights at your own pace during 24 or 72 hours. This bus sightseeing tour starts at The Royal Opera and stops at all the famous attractions in Stockholm. Buy your ticket to ABBA The Museum on board! The complete Hop On – Hop Off bus tour takes approx. 100 minutes. Approx. 25 stops include cruise terminals. This bus ticket is valid on both our green Hop On – Hop Off buses and our red City Sightseeing Worldwide buses.  On board the bus you will receive vouchers with discount to several shops, bars, cafés, restaurants and attractions in Stockholm. By displaying your active full-fare ticket (adult ticket), you also have 1 free entrance at Gröna Lund.</string>
+    <string name="tp_hoponhopoff_add">Hamngatan 37, 111 53 Stockholm</string>
+    <string name="tp_hoponhopoff_tel">+46 08 555 103 90</string>
+    <string name="tp_hoponhopoff_web">https://www.redsightseeing.com/our-tours/hop-on-hop-off-bus-stockholm/</string>
+
+    <string name="tp_oceanbus_title">Ocean Bus</string>
+    <string name="tp_oceanbus_des">Ocean Bus is a unique sightseeing tour, where you get the chance to experience Stockholm onboard an amphibious bus, that runs on land as well as on water. The tour passes by many of the city\´s most well-known attractions and is guided in English. Starting point at Strömgatan by the Royal Opera.</string>
+    <string name="tp_oceanbus__add">Strömgatan 3, 111 52 Stockholm</string>
+    <string name="tp_oceanbus__tel">+46 073 688 86 98</string>
+    <string name="tp_oceanbus__web">https://oceanbus.se/en/</string>
+
+    <!-- Food category -->
+    <string name="fd_boqueria_title">Boqueria</string>
+    <string name="fd_boqueria_des">Both restaurant and bar, Boqueria is the obvious meeting place in the popular shopping mall Mood for a lunch, brunch, dinner or evening drink. The busy Spanish restaurant main focus is tapas and pintxos but there’s also a selection of main courses available.</string>
+    <string name="fd_boqueria_add">Jakobsbergsgatan 17, 111 44 Stockholm</string>
+    <string name="fd_boqueria_tel">+46 08 30 74 00</string>
+    <string name="fd_boqueria_web">https://www.boqueria.se/</string>
+
+    <string name="fd_bunmeatbun_title">Bun Meat Bun</string>
+    <string name="fd_bunmeatbun_des">Started by two burger enthusiasts in 2012, Bun Meat Bun originally opened in the southern Stockholm suburb of Farsta. The hamburger joint quickly proved to be a success and today you’re also able to taste their simple but meaty burgers at the Söderhallarna market hall.</string>
+    <string name="fd_bunmeatbun_add">Medborgarplatsen 3, 118 26 Stockholm</string>
+    <string name="fd_bunmeatbun_tel">+46 08 121 472 24</string>
+    <string name="fd_bunmeatbun_web">http://www.bunmeatbun.se/</string>
+
+    <string name="fd_gondolen_title">Gondolen</string>
+    <string name="fd_gondolen_des">Despite the abundance of tough competition, these are, by far, Stockholm’s most spectacular views because it is suspended high above the entrance of Stockholm’s port. The restaurant features a large dining room with classy Swedish, and international, cuisine, and has a very popular cocktail lounge.</string>
+    <string name="fd_gondolen_add">Stadsgården 6, 104 65 Stockholm</string>
+    <string name="fd_gondolen_tel">+46 08 641 70 90</string>
+    <string name="fd_gondolen_web">http://www.eriks.se/</string>
+
+    <string name="fd_greasyspoon_title">Greasy Spoon</string>
+    <string name="fd_greasyspoon_des">This is a great brunch spot from breakfast to dinner, offering a menu of British classics with a modern twist. At Greasy Spoon you can have your eggs benedict any time of the day, together with the sound of the jukebox or even a Bloody Mary. There is also a Greasy Spoon restaurant on Hagagatan 4 by Odenplan.</string>
+    <string name="fd_greasyspoon_add">Tjärhovsgatan 19, 116 28 Stockholm</string>
+    <string name="fd_greasyspoon_tel">+46 072 264 20 97</string>
+    <string name="fd_greasyspoon_web">http://www.greasyspoon.se/</string>
+
+    <string name="fd_ilcaffe_title">Il Caffé</string>
+    <string name="fd_ilcaffe_des">A fresh vegetarian alternative on Östermalm serving 100% organic, gluten-free and lactose-free dishes. Enjoy salads, green pasta, and nutritious smoothies. Doctor Salad also offers a large selection of raw desserts and snacks.</string>
+    <string name="fd_ilcaffe_add">Södermannagatan 23, 116 40 Stockholm</string>
+    <string name="fd_ilcaffe_tel">+46 08 462 95 00</string>
+    <string name="fd_ilcaffe_web">http://ilcaffe.se/cafe/sodermannagatan/</string>
+
+    <string name="fd_k25_title">K25</string>
+    <string name="fd_k25_des">A modern, urban food court a touch above the ordinary. You will find high-quality, inexpensive dishes from all over the world. Everything from hamburgers from the gourmet restaurant Vigårda to dumplings from Beijing 8. A popular lunch place among office workers in central Stockholm. Sit down at one of the long tables and get to know the locals.</string>
+    <string name="fd_k25_add">Kungsgatan 25, 111 56 Stockholm</string>
+    <string name="fd_k25_tel">+46 08 21 29 29</string>
+    <string name="fd_k25_web">http://k25.nu/en/</string>
+
+    <string name="fd_operakallaren_title">Operakällaren</string>
+    <string name="fd_operakallaren_des">A classic. Sweden’s most famous dining room, in the same building as the Royal Swedish Opera. A magnificent setting, with views of the water across the Royal Palace from the terrace bar. Dine on first-class international delicacies, presented with bold, contemporary flair. The legendary Nobis wine cellar is a wine lover’s magic cave.</string>
+    <string name="fd_operakallaren_add">Operahuset, Karl XII:s torg, 111 86 Stockholm</string>
+    <string name="fd_operakallaren_tel">+46 08 676 58 00</string>
+    <string name="fd_operakallaren_web">https://operakallaren.se/en/</string>
+
+    <string name="fd_stockholmsglasshus_title">Stockholms glasshus</string>
+    <string name="fd_stockholmsglasshus_des">With its large selection, long experience, and extraordinary craftsmanship, this place lives up to its name - which means "The Stockholm Ice Cream House." There are about 40 flavors of ice cream, gelato, sorbet and other tasty treats on the menu, and plenty of seating.</string>
+    <string name="fd_stockholmsglasshus_add">Birkagatan 8, 113 36 Stockholm</string>
+    <string name="fd_stockholmsglasshus_tel">+46 08 30 32 37</string>
+    <string name="fd_stockholmsglasshus_web">http://www.glasshus.se/</string>
+
+    <string name="fd_surfers_title">Surfers</string>
+    <string name="fd_surfers_des">Colorful, spicy and good-natured – that’s the vibe at Surfers on Regeringsgatan in City. It may be surprising from the name, but Surfers is home to an excellent Chinese restaurant. Inspired by the 23 flavors of Sichuan cuisine and 56 cooking methods, the menu is based on some fifteen small plates, and you get to choose which favorites to share with your friends. The gorgeous drinks feature Asian flavors and are worth the visit themselves. A sister restaurant is located in Visby on Gotland.</string>
+    <string name="fd_surfers_add">Regeringsgatan 88, 111 39 Stockholm</string>
+    <string name="fd_surfers_tel">+46 08 21 10 03</string>
+    <string name="fd_surfers_web">http://www.surfersstockholm.se/</string>
+
+    <string name="fd_wienercafeet_title">Wienercaféet</string>
+    <string name="fd_wienercafeet_des">A luxurious café and restaurant where both interior and menu are inspired by Paris and Vienna. The downtown location is perfect for some pastries and champagne after shopping, and don’t miss out on the afternoon tea.</string>
+    <string name="fd_wienercafeet_add">Biblioteksgatan 6-8, 111 46 Stockholm</string>
+    <string name="fd_wienercafeet_tel">+46 08 684 238 50</string>
+    <string name="fd_wienercafeet_web">http://www.wienercafeet.com/</string>
+</resources>
